@@ -1,6 +1,6 @@
 # Hi, I'm Rushil 👋 
 
-### 🚀 Junior Full Stack Developer | AI Integrator | System Design Enthusiast
+### 🚀 Junior Full Stack Developer
 
 I am a software developer focused on building scalable distributed systems and bridging the gap between traditional full-stack engineering and Artificial Intelligence. I am currently making strides in **System Design (HLD)**, **Low-Level Design (LLD)**, and productionizing AI models within microservice architectures.
 
