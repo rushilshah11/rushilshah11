@@ -23,7 +23,7 @@ I am a site reliability engineer at Bank of America. Besides work, I am currentl
 
 ---
 
-### 🏗️ Favorite Projects
+### Favorite Projects
 
 #### [Basketball Microservices Platform](https://github.com/rushilshah11/basketball-microservices-project) (Ongoing)
 *A distributed analytics engine built to handle high-frequency sports data.*
