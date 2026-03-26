@@ -10,20 +10,20 @@ I am a site reliability engineer at Bank of America. Besides work, I am currentl
 - **Languages:** Java, Python, TypeScript, SQL
 - **Backend:** Spring Boot (Microservices), FastAPI, Node.js, gRPC
 - **Frontend:** Next.js 15 (App Router), React, Tailwind CSS
-- **AI & Data:** LangChain, XGBoost, RAG (Retrieval-Augmented Generation), PostgreSQL
-- **Infrastructure:** Docker & Docker Compose, Redis, Eureka Service Discovery, AWS S3, GitHub Actions (CI/CD)
+- **AI:** LangChain, XGBoost, RAG (Retrieval-Augmented Generation)
+- **Infrastructure:** Docker & Docker Compose, Redis, Eureka Service Discovery, AWS S3, GitHub Actions (CI/CD), PostgreSQL, Airflow, PySpark
 
 ---
 
 ### My Growth Journey
 
 - **Deepening System Design:** I’m currently moving beyond CRUD by implementing patterns like Circuit Breakers, Service Discovery, and API Gateways.
-- **AI Engineering:** Moving past basic API calls to explore vector databases, embedding strategies, and model training with XGBoost.
-- **Low-Level Mastery:** Building core infrastructure tools (like Redis) from scratch to understand the "why" behind the tools we use every day.
+- **AI Engineering:** Moving past basic API calls to explore vector databases, embedding strategies, and model training, and Agentic AI.
+- **Low-Level Mastery:** Building core infrastructure tools (like Redis) from scratch.
 
 ---
 
-### Favorite Projects
+### Projects
 
 #### [Basketball Microservices Platform](https://github.com/rushilshah11/basketball-microservices-project) (Ongoing)
 *A distributed analytics engine built to handle high-frequency sports data.*
